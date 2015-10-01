@@ -1,3 +1,8 @@
+# Introduction to Collaborative Social Science Data Analysis
+# Instructor: Christopher Gandrud
+# Date of submission:01.10.2015
+# Assignment 1
+##################################################################################
 # Dataset being used: women
 data("women")
 # to find out the variables in the dataset
